@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+.form {
+    margin: 5rem;
+    width: 60%;
+    min-width: 400px;
+}
+
+.form-input {
+    width: 250px;
+}
+
+.submit {
+    float: right;
+}
+
+.fieldset {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-submit {
+    width: 100%;
+}
